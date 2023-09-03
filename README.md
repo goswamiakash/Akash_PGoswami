@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Akash Goswami
 
-I'm a passionate frontend developer based in [Your Location].
+I'm a passionate frontend developer based in India.
 
 - 🔭 I'm currently working on **Netprizm**
 - 🌱 I'm learning **Node.js**
