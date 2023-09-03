@@ -2,7 +2,7 @@
 
 I'm a passionate frontend developer based in India.
 
-- 🔭 I'm currently working on **Netprizm**
+- 🔭 I'm currently working as a **Software Engineer**
 - 🌱 I'm learning **Node.js**
 - 💬 Ask me about **React.js, JavaScript**
 
@@ -12,7 +12,7 @@ I'm a passionate frontend developer based in India.
 - Twitter: [@goswamiakash_](https://twitter.com/goswamiakash_)
 
 ## 🚀 Skills and Tools
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, ReactJS, MaterailUI, IntroJS
 - **Backend:** Node.js
 - **Database:** MySQL
 - **Other Tools:** Bootstrap, Chart.js
